@@ -29,6 +29,9 @@ Features:
 - Pagination implemented for easy navigation, allowing users to explore multiple pages effortlessly
 - The website is designed to be visually pleasing and responsive.
 
+https://github.com/manishkc104/Car-Catalog/assets/43213617/72e1486e-6151-4225-9da0-7873630e94c3
+
+
 ## Built With
 
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
